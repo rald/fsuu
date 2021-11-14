@@ -1,8 +1,8 @@
 {
-  "name": "fsuu",
+  "name": "fsuu-april",
   "description": "A barebones Python app, which can easily be deployed to Heroku.",
   "image": "heroku/python",
-  "repository": "",
+  "repository": "https://github.com/rald/fsuu",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
